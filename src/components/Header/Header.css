@@ -1,0 +1,16 @@
+.navbar a{
+    color: black ;
+    border-radius: 0;
+    padding: 0;
+    margin-right: 50px;
+}
+.navbar a:hover{
+    background: none !important;
+    color: red !important;
+}
+.navbar a.active{
+    background-color: white !important;
+    color: red!important;
+    border-radius: 0;
+    border-bottom: 2px solid red;
+}

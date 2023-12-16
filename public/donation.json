@@ -1,5 +1,6 @@
 [
   {
+    "id":1,
     "title": "Canned Vegetables",
     "description": "Canned vegetables are a crucial component of our donation drive, providing individuals and families with access to nutritious and balanced meals. This collection includes a variety of canned vegetables, such as peas, carrots, and corn, offering a diverse range of essential nutrients. These vegetables are carefully selected to meet dietary needs and contribute to overall health. With their long shelf life, canned vegetables are ideal for emergency situations and times of need. Our goal is to support communities by ensuring they have access to wholesome food options. Canned vegetables make meal preparation convenient, requiring minimal effort while delivering maximum nutritional value. Whether used in soups, stews, or as side dishes, these canned items add versatility to the recipients' culinary choices. The vibrant packaging of the canned vegetables reflects the spirit of generosity and hope that underlines our donation camp. The orange background symbolizes warmth and nourishment, while the yellow accent conveys the brightness of shared resources. Together, we can make a difference by providing sustenance to those in need. Your contribution to this category will have a direct and positive impact on the well-being of individuals facing challenging circumstances.",
     "price": 250,
@@ -7,9 +8,10 @@
     "category_bg": "#93c5fd",
     "card_bg": "#dbeafe",
     "color": "#2563eb",
-    "img": "canned_vegetables.jpg"
+    "img": "https://i.ibb.co/8zHRw0q/food.jpg"
   },
   {
+    "id":2,
     "title": "Bottled Water",
     "description": "Bottled water is an essential item in our donation camp, addressing immediate hydration needs during times of crisis. This category includes clean and safe drinking water bottles, providing a lifeline for individuals facing challenges such as natural disasters, emergencies, or scarcity of resources. Access to clean water is a fundamental human right, and your contribution to this category helps ensure that this right is upheld, even in challenging circumstances. The green background of this category signifies vitality and growth, while the purple accent represents stability and unity. Together, we can make a positive impact on the lives of those struggling with water scarcity or emergencies. By donating bottled water, you are contributing to the well-being and health of individuals, offering them a basic necessity that is often taken for granted. Your generosity can provide comfort and relief to people facing challenging situations, offering a sense of security and hope.",
     "price": 300,
@@ -17,9 +19,10 @@
     "category_bg": "#86efac",
     "card_bg": "#dcfce7",
     "color": "#16a34a",
-    "img": "bottled_water.jpg"
+    "img": "https://i.ibb.co/dQ9vN54/education.jpg"
   },
   {
+    "id":3,
     "title": "Winter Jackets",
     "description": "Winter jackets are a crucial part of our donation drive, aimed at providing warmth and protection during cold weather. This category includes brand-new jackets designed to keep individuals of all ages comfortable and shielded from the harsh elements. In times of need, especially during winter, adequate clothing becomes a vital necessity for vulnerable populations. Your contribution to this category directly impacts the well-being of those facing the challenges of cold weather without adequate protection. The deep blue background of this category represents stability and reliability, while the orange accent signifies warmth and comfort. By donating winter jackets, you are extending a helping hand to individuals and families, offering them a layer of protection against the cold. This simple yet impactful contribution can make a significant difference in the lives of those struggling to stay warm during the winter months.",
     "price": 450,
@@ -27,9 +30,10 @@
     "category_bg": "#fda4af",
     "card_bg": "#ffe4e6",
     "color": "#e11d48",
-    "img": "winter_jackets.jpg"
+    "img": "https://i.ibb.co/0VtLpD6/other.jpg"
   },
   {
+    "id":4,
     "title": "Rice",
     "description": "High-quality long-grain white rice is a staple item in our donation camp, providing a foundational food source for individuals and families. This category includes rice suitable for preparing staple meals, offering a versatile and long-lasting solution for addressing hunger and nutritional needs. Rice is a key component of various cuisines worldwide and serves as a valuable dietary staple, making it an essential contribution to our donation drive. The red background of this category symbolizes energy and strength, while the yellow accent represents nourishment and support. Your contribution to the rice category helps ensure that recipients have access to a reliable and filling food source. By providing rice, you are making a meaningful impact on the nutrition and well-being of those in need, offering a source of sustenance that can be a foundation for balanced and healthy meals.",
     "price": 350,
@@ -37,9 +41,10 @@
     "category_bg": "#fdba74",
     "card_bg": "#ffedd5",
     "color": "#ea580c",
-    "img": "rice.jpg"
+    "img": "https://i.ibb.co/LJvNBqb/personal.jpg"
   },
   {
+    "id":5,
     "title": "Juice Boxes",
     "description": "Assorted fruit juice boxes are a refreshing addition to our donation camp, offering individuals and families a delightful and nutritious beverage option. This category includes a variety of fruit juice boxes, providing recipients with a tasty and hydrating alternative. Fruit juices are not only delicious but also packed with essential vitamins and minerals, contributing to overall health and well-being. The light green background of this category signifies freshness and vitality, while the magenta accent represents the joy and vibrancy that your contribution brings. By donating juice boxes, you are offering a flavorful and healthy option for hydration, particularly beneficial for children and individuals with specific dietary preferences. Your generosity can bring a smile to the faces of those in need, providing a moment of joy and refreshment.",
     "price": 400,
@@ -47,9 +52,10 @@
     "category_bg": "#86efac",
     "card_bg": "#dcfce7",
     "color": "#16a34a",
-    "img": "juice_boxes.jpg"
+    "img": "https://i.ibb.co/dQ9vN54/education.jpg"
   },
   {
+    "id":6,
     "title": "Sweaters",
     "description": "Warm sweaters for all ages are a key component of our donation camp, providing comfort and protection during colder months. This category includes brand-new sweaters designed to keep individuals warm and cozy, offering a layer of insulation against chilly weather. In times of need, especially during the colder seasons, adequate clothing becomes a fundamental necessity for vulnerable populations. The deep blue background of this category signifies stability and reliability, while the orange accent represents warmth and comfort. By contributing to the sweaters category, you are directly impacting the well-being of those facing the challenges of cold weather without sufficient protection. Your generosity can provide individuals and families with the warmth and comfort they need during the colder months.",
     "price": 300,
@@ -57,9 +63,10 @@
     "category_bg": "#fda4af",
     "card_bg": "#ffe4e6",
     "color": "#e11d48",
-    "img": "sweaters.jpg"
+    "img": "https://i.ibb.co/0VtLpD6/other.jpg"
   },
   {
+    "id":7,
     "title": "Blankets",
     "description": "Cozy and soft blankets are a comforting addition to our donation camp, offering warmth and security during cold nights. This category includes brand-new blankets designed to provide individuals and families with a sense of comfort and protection. In challenging circumstances, a cozy blanket can make a significant difference in promoting well-being and a sense of security. The purple background of this category signifies stability and unity, while the green accent represents tranquility and comfort. By contributing to the blankets category, you are directly impacting the well-being of those facing cold nights without adequate warmth. Your generosity can provide a source of comfort and security, offering a tangible expression of care and support.",
     "price": 250,
@@ -67,9 +74,10 @@
     "category_bg": "#93c5fd",
     "card_bg": "#dbeafe",
     "color": "#2563eb",
-    "img": "blankets.jpg"
+    "img": "https://i.ibb.co/8zHRw0q/food.jpg"
   },
   {
+    "id":8,
     "title": "Toothbrush and Toothpaste",
     "description": "Dental hygiene essentials, including toothbrushes and toothpaste, are a vital category in our donation camp. This collection provides individuals with the necessary tools for maintaining oral health, even in challenging circumstances. Good oral hygiene is essential for overall well-being, and your contribution to this category directly impacts the health and confidence of recipients. The red background of this category symbolizes energy and strength, while the purple accent represents stability and unity. By donating toothbrushes and toothpaste, you are promoting good oral health practices and providing individuals with the means to care for their teeth. Your generosity can make a lasting impact on the confidence and well-being of those in need, offering a fundamental aspect of personal care.",
     "price": 400,
@@ -77,9 +85,10 @@
     "category_bg": "#fdba74",
     "card_bg": "#ffedd5",
     "color": "#ea580c",
-    "img": "toothbrush_toothpaste.jpg"
+    "img": "https://i.ibb.co/LJvNBqb/personal.jpg"
   },
   {
+    "id":9,
     "title": "First Aid Kits",
     "description": "Comprehensive first aid kits are an essential category in our donation camp, providing individuals and families with the tools needed to handle emergencies and administer initial medical care. This collection includes a range of essential first aid supplies, ensuring that recipients are equipped to address common health-related challenges in their day-to-day lives. The light green background of this category signifies freshness and vitality, while the deep blue accent represents stability and reliability. By contributing to the first aid kits category, you are directly impacting the safety and well-being of those in need. Your generosity can make a significant difference by providing individuals with the tools and resources needed to address emergencies and minor health issues effectively.",
     "price": 300,
@@ -87,9 +96,10 @@
     "category_bg": "#86efac",
     "card_bg": "#dcfce7",
     "color": "#16a34a",
-    "img": "first_aid_kits.jpg"
+    "img": "https://i.ibb.co/dQ9vN54/education.jpg"
   },
   {
+    "id":10,
     "title": "Pillows",
     "description": "Soft and comfortable pillows are a valuable addition to our donation camp, offering individuals the means to enhance the quality of their sleep. This category includes brand-new pillows designed to provide comfort and support, contributing to overall well-being. In challenging circumstances, a good night's sleep becomes even more crucial, and your contribution to this category directly impacts the comfort and restfulness of recipients. The purple background of this category signifies stability and unity, while the green accent represents tranquility and comfort. By donating pillows, you are offering a tangible source of comfort and support to individuals facing difficult circumstances. Your generosity can make a meaningful difference in promoting restful sleep and overall well-being.",
     "price": 450,
@@ -97,9 +107,10 @@
     "category_bg": "#fda4af",
     "card_bg": "#ffe4e6",
     "color": "#e11d48",
-    "img": "pillows.jpg"
+    "img": "https://i.ibb.co/0VtLpD6/other.jpg"
   },
   {
+    "id":11,
     "title": "Soap and Shampoo",
     "description": "Hygiene products, including soap and shampoo, are a fundamental category in our donation camp, offering individuals the means to maintain cleanliness and personal well-being. This collection includes essential hygiene items that contribute to overall health and confidence, especially in challenging circumstances. Your contribution to this category directly impacts the hygiene and well-being of recipients. The red background of this category symbolizes energy and strength, while the deep blue accent represents stability and reliability. By donating soap and shampoo, you are providing individuals with the tools needed for personal care. Your generosity can make a lasting impact on the confidence and well-being of those in need, offering fundamental aspects of personal hygiene.",
     "price": 350,
@@ -107,9 +118,10 @@
     "category_bg": "#fdba74",
     "card_bg": "#ffedd5",
     "color": "#ea580c",
-    "img": "soap_shampoo.jpg"
+    "img": "https://i.ibb.co/LJvNBqb/personal.jpg"
   },
   {
+    "id":12,
     "title": "Over-the-counter Medications",
     "description": "Common over-the-counter medications are a vital category in our donation camp, providing individuals and families with access to medications that address basic health needs. This collection includes a range of common medications that can provide relief from common ailments and health-related challenges. Your contribution to this category directly impacts the health and well-being of those in need, offering a practical solution for addressing minor health issues. The light green background of this category signifies freshness and vitality, while the deep blue accent represents stability and reliability. By contributing to the over-the-counter medications category, you are providing individuals with the tools needed to manage their health effectively. Your generosity can make a significant difference by offering practical solutions for health-related challenges in difficult circumstances.",
     "price": 500,
@@ -117,9 +129,10 @@
     "category_bg": "#86efac",
     "card_bg": "#dcfce7",
     "color": "#16a34a",
-    "img": "medications.jpg"
+    "img": "https://i.ibb.co/dQ9vN54/education.jpg"
   },
   {
+    "id":13,
     "title": "Over-the-counter Medications",
     "description": "Common over-the-counter medications are a vital category in our donation camp, providing individuals and families with access to medications that address basic health needs. This collection includes a range of common medications that can provide relief from common ailments and health-related challenges. Your contribution to this category directly impacts the health and well-being of those in need, offering a practical solution for addressing minor health issues. The light green background of this category signifies freshness and vitality, while the deep blue accent represents stability and reliability. By contributing to the over-the-counter medications category, you are providing individuals with the tools needed to manage their health effectively. Your generosity can make a significant difference by offering practical solutions for health-related challenges in difficult circumstances.",
     "price": 500,
@@ -127,9 +140,10 @@
     "category_bg": "#93c5fd",
     "card_bg": "#dbeafe",
     "color": "#2563eb",
-    "img": "medications.jpg"
+    "img": "https://i.ibb.co/8zHRw0q/food.jpg"
   },
   {
+    "id":14,
     "title": "Over-the-counter Medications",
     "description": "Common over-the-counter medications are a vital category in our donation camp, providing individuals and families with access to medications that address basic health needs. This collection includes a range of common medications that can provide relief from common ailments and health-related challenges. Your contribution to this category directly impacts the health and well-being of those in need, offering a practical solution for addressing minor health issues. The light green background of this category signifies freshness and vitality, while the deep blue accent represents stability and reliability. By contributing to the over-the-counter medications category, you are providing individuals with the tools needed to manage their health effectively. Your generosity can make a significant difference by offering practical solutions for health-related challenges in difficult circumstances.",
     "price": 500,
@@ -137,9 +151,10 @@
     "category_bg": "#fda4af",
     "card_bg": "#ffe4e6",
     "color": "#e11d48",
-    "img": "medications.jpg"
+    "img": "https://i.ibb.co/0VtLpD6/other.jpg"
   },
   {
+    "id":15,
     "title": "Over-the-counter Medications",
     "description": "Common over-the-counter medications are a vital category in our donation camp, providing individuals and families with access to medications that address basic health needs. This collection includes a range of common medications that can provide relief from common ailments and health-related challenges. Your contribution to this category directly impacts the health and well-being of those in need, offering a practical solution for addressing minor health issues. The light green background of this category signifies freshness and vitality, while the deep blue accent represents stability and reliability. By contributing to the over-the-counter medications category, you are providing individuals with the tools needed to manage their health effectively. Your generosity can make a significant difference by offering practical solutions for health-related challenges in difficult circumstances.",
     "price": 500,
@@ -147,9 +162,10 @@
     "category_bg": "#fdba74",
     "card_bg": "#ffedd5",
     "color": "#ea580c",
-    "img": "medications.jpg"
+    "img": "https://i.ibb.co/LJvNBqb/personal.jpg"
   },
   {
+    "id":16,
     "title": "Over-the-counter Medications",
     "description": "Common over-the-counter medications are a vital category in our donation camp, providing individuals and families with access to medications that address basic health needs. This collection includes a range of common medications that can provide relief from common ailments and health-related challenges. Your contribution to this category directly impacts the health and well-being of those in need, offering a practical solution for addressing minor health issues. The light green background of this category signifies freshness and vitality, while the deep blue accent represents stability and reliability. By contributing to the over-the-counter medications category, you are providing individuals with the tools needed to manage their health effectively. Your generosity can make a significant difference by offering practical solutions for health-related challenges in difficult circumstances.",
     "price": 500,
@@ -157,6 +173,6 @@
     "category_bg": "#86efac",
     "card_bg": "#dcfce7",
     "color": "#16a34a",
-    "img": "medications.jpg"
+    "img": "https://i.ibb.co/dQ9vN54/education.jpg"
   }
 ]

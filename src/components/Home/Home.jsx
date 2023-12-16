@@ -1,10 +1,11 @@
-import Header from "../Header/Header";
-
+import Banner from "../Banner/Banner";
+import DonationItems from "../DonationItems/DonationItems";
 
 const Home = () => {
     return (
         <div>
-            <Header></Header>
+            <Banner></Banner>
+            <DonationItems></DonationItems>          
         </div>
     );
 };
