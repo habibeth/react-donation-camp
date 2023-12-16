@@ -17,11 +17,7 @@ const DonationDetail = ({ savedItem, setDataLength, donationItems, dataLength })
                         <button className="mt-2 ml-4 border-0 rounded-md px-3 py-1 text-white font-semibold" style={{ background: `${color}` }}>View Details</button>
                     </div>
                 </Link>
-                <div className={dataLength === donationItems.length ? 'hidden' : 'flex justify-center'}>
-                    <button className="btn mt-10 w-32 bg-gradient-to-r from-sky-500 to-indigo-500 text-white"
-                        onClick={() => setDataLength(donationItems.length)}
-                    >See All</button>
-                </div>
+                
             </div>
         </div>
     );

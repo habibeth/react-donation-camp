@@ -23,8 +23,8 @@ const DonationDetails = () => {
 
     console.log('donation page')
     return (
-        <div className="max-w-7xl mx-auto grid grid-cols-2 gap-5 mb-20 mt-20">
-            <div className="">
+        <div className="max-w-7xl mx-auto mb-20 mt-20">
+            <div className="grid grid-cols-2 gap-5">
                 {
                     donationItem.slice(0, dataLength).map(savedItem => <DonationDetail
                         key={savedItem.id}
@@ -32,12 +32,12 @@ const DonationDetails = () => {
                     ></DonationDetail>)
                 }
             </div>
-
             <div className={ dataLength === donationItems.length ? 'hidden' : 'flex justify-center'}>
                 <button className="btn mt-10 w-32 bg-gradient-to-r from-sky-500 to-indigo-500 text-white"
                     onClick={() => setDataLength(donationItems.length)}
                 >See All</button>
             </div>
+
         </div>
     );
 };
