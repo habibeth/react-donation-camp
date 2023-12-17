@@ -39,8 +39,6 @@ const Statistics = () => {
         const totalP = (totalPercentage - donateP).toFixed(2);
         setTotalPercentage(totalP);
 
-        console.log(donateP)
-        console.log(totalP)
     }, [statisticsOfPrice]);
 
 
